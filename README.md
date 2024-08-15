@@ -20,13 +20,11 @@ Andrej Karpathy's lectures are widely regarded as one of the best educational re
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XflwBQJGUNRs8bAnZO6j4bJPDCfEyU1j?usp=sharing)
 
-[ 2 more workbooks coming soon...]
-
-### Let's Build GPT (Lecture [7](https://www.youtube.com/watch?v=kCc8FmEb1nY))
+### Let's Build GPT (Lecture [7](https://www.youtube.com/watch?v=kCc8FmEb1nY)) [...coming soon...]
 
 - Build medium-sized GPT from scratch.
 
-### Tokenizer (Lecture [8](https://www.youtube.com/watch?v=zduSFxRajkE))
+### Tokenizer (Lecture [8](https://www.youtube.com/watch?v=zduSFxRajkE)) [...coming soon...]
 
 - Build GPT Tokenizer from scratch.
 
