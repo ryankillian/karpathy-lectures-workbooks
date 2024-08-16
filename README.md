@@ -10,23 +10,25 @@ Andrej Karpathy's lectures are widely regarded as one of the best educational re
 
 ### Micrograd (Lecture [1](https://www.youtube.com/watch?v=VMj-3S1tku0))
 
-- Build Micrograd from scratch to learn about backpropagation.
+- Backpropagation implementation.
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/107zebuE_-TRgprpLmC01zH2DWkiZv6pq?usp=sharing)
 
 ### Makemore (Lectures [2](https://www.youtube.com/watch?v=PaCmpygFfXo), [3](https://www.youtube.com/watch?v=TCH_1BHY58I), [4](https://www.youtube.com/watch?v=P6sfmUTpUmc), [6](https://www.youtube.com/watch?v=t3YJ5hKiMQ0))
 
-- Covers four of Andrej Karpathy's lectures in one workbook. Progress from basic to complex language models.
+- Covers four of Andrej Karpathy's lectures in one workbook. Autoregressive language models.
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XflwBQJGUNRs8bAnZO6j4bJPDCfEyU1j?usp=sharing)
 
+### Tokenizer (Lecture [8](https://www.youtube.com/watch?v=zduSFxRajkE))
+
+- Byte Pair Encoding (BPE) Tokenizer implementation.
+
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_tuTVcuKP1K9vn1hzSVboAXxBJRhJCfG?usp=sharing)
+
 ### Let's Build GPT (Lecture [7](https://www.youtube.com/watch?v=kCc8FmEb1nY)) [...coming soon...]
 
-- Build medium-sized GPT from scratch.
-
-### Tokenizer (Lecture [8](https://www.youtube.com/watch?v=zduSFxRajkE)) [...coming soon...]
-
-- Build GPT Tokenizer from scratch.
+- Andrej's world-famous Transformer implementation.
 
 ## How to Use These Workbooks
 
