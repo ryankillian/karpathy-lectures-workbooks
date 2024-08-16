@@ -8,7 +8,7 @@ Andrej Karpathy's lectures are among the best resources for learning neural netw
 
 ## Who Are These Workbooks For?
 
-- Learners who have watched Karpathy's "Zero to Hero" series and want to solidify their understanding.
+- Learners who have watched Karpathy's "Zero to Hero" series and want to code the projects from scratch.
 
 ## Workbooks Overview
 
@@ -36,6 +36,8 @@ Andrej Karpathy's lectures are among the best resources for learning neural netw
 ### Let's Build GPT (Lecture [7](https://www.youtube.com/watch?v=kCc8FmEb1nY)) [...coming soon...]
 
 - Explore the Transformer architecture by building GPT-2 from scratch.
+
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1676OablnqUQGApAr8DNe60x0ooW3Mqp7?usp=sharing)
 
 ## How to Use These Workbooks
 
