@@ -33,7 +33,7 @@ Andrej Karpathy's lectures are among the best resources for learning neural netw
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_tuTVcuKP1K9vn1hzSVboAXxBJRhJCfG?usp=sharing)
 
-### Let's Build GPT (Lecture [7](https://www.youtube.com/watch?v=kCc8FmEb1nY)) [...coming soon...]
+### Let's Build GPT (Lecture [7](https://www.youtube.com/watch?v=kCc8FmEb1nY))
 
 - Explore the Transformer architecture by building GPT-2 from scratch.
 
