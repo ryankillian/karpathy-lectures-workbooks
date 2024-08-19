@@ -26,18 +26,18 @@ Andrej Karpathy's lectures are among the best resources for learning neural netw
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XflwBQJGUNRs8bAnZO6j4bJPDCfEyU1j?usp=sharing)
 
+### Let's Build GPT (Lecture [7](https://www.youtube.com/watch?v=kCc8FmEb1nY))
+
+- Explore the Transformer architecture by building GPT-2 from scratch.
+
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1676OablnqUQGApAr8DNe60x0ooW3Mqp7?usp=sharing)
+
 ### Tokenizer (Lecture [8](https://www.youtube.com/watch?v=zduSFxRajkE))
 
 - Implement a Byte Pair Encoding (BPE) tokenizer from scratch.
 - Learn how tokenization works, a fundamental aspect of NLP.
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_tuTVcuKP1K9vn1hzSVboAXxBJRhJCfG?usp=sharing)
-
-### Let's Build GPT (Lecture [7](https://www.youtube.com/watch?v=kCc8FmEb1nY))
-
-- Explore the Transformer architecture by building GPT-2 from scratch.
-
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1676OablnqUQGApAr8DNe60x0ooW3Mqp7?usp=sharing)
 
 ## How to Use These Workbooks
 
